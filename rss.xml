@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ben Terry Lighting Design]]></title>
         <description><![CDATA[Ben Terry Lighting Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ben-terry-lighting-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 07:15:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 07:16:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ben-terry-lighting-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82f7588c-89e9-46f4-8b0a-9a701814ed9c.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/82f7588c-89e9-46f4-8b0a-9a701814ed9c.jpg</link>
+            <guid isPermaLink="false">53983117-6ab7-4825-ad30-f1cb684859cd</guid>
+            <pubDate>Wed, 03 Aug 2016 07:16:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d81ea95-822e-41ac-8d61-1344839b9446.png">]]></description>
-            <link>undefinedf5d57f8e-6ff2-49bc-a11e-36f941bf64db/index.html</link>
+            <link>https://thegrid.ai/ben-terry-lighting-design/f5d57f8e-6ff2-49bc-a11e-36f941bf64db/index.html</link>
             <guid isPermaLink="false">f5d57f8e-6ff2-49bc-a11e-36f941bf64db</guid>
             <pubDate>Wed, 03 Aug 2016 07:15:16 GMT</pubDate>
         </item>
